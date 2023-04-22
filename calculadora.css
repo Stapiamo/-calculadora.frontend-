@@ -1,0 +1,22 @@
+
+main {
+    background-image: url('https://p1.pxfuel.com/preview/801/348/870/top-workspace-office-computer-smartphone-technology.jpg') !important;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+#bordecalculadora {
+    background-color: white;
+}
+
+.container {
+    height: 720px;
+}
+
+.mt-5 {
+    padding-top: 15%; 
+}
+#buttons {
+    margin-bottom: 15px;
+
+}
