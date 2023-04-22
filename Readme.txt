@@ -40,7 +40,7 @@ Tecnología utilizada:
 
 
 Para obtener mayor información, consulte:
-==Link repertorio github==
+==https://github.com/Stapiamo/calculadora.frontend.git==
 Dónde podrán recibir ayuda los usuarios con respecto a este proyecto.
 
 
